@@ -22,6 +22,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
 
+<br />
+
 ---
 
 ### :zap: Recent Activity
