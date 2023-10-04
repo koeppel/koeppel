@@ -1,6 +1,6 @@
 ### Hello there, I'm Janik
 
-🔭 I’m currently working on a Java - Spring based application
+🔭 I’m currently working on a cookbook application based on Vue.js and express :)
 
 ### Connect with me:
 
