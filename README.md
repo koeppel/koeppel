@@ -29,7 +29,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/SAP-samples/teched2020-DEV164/pull/16) in [SAP-samples/teched2020-DEV164](https://github.com/SAP-samples/teched2020-DEV164)
+1. 🔒 Closed issue [#3883](https://github.com/SAP/openui5/issues/3883) in [SAP/openui5](https://github.com/SAP/openui5)
 <!--END_SECTION:activity-->
 
 [xing]: https://www.xing.com/profile/Janik_Koeppel/cv
