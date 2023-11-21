@@ -29,7 +29,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3883](https://github.com/SAP/openui5/issues/3883) in [SAP/openui5](https://github.com/SAP/openui5)
+1. ❗ Opened issue [#18736](https://github.com/vuetifyjs/vuetify/issues/18736) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 <!--END_SECTION:activity-->
 
 [xing]: https://www.xing.com/profile/Janik_Koeppel/cv
